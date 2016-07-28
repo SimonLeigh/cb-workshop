@@ -53,8 +53,9 @@ Please see the file [VMSetup](https://github.com/dmaier-couchbase/cb-workshop/bl
 
 ### Day 1: Couchbase Architecture and Administration Basics
 
-Remove section one, make sure it is pre-configured.
-Start from section 2.
+## Remove section one, make sure it is pre-configured.
+## Start from section 2.
+## Just give a demo of the backup/restore side of things.
 
 | #               | Title                                  | Content                                      | 
 | --------------- | -------------------------------------- | -------------------------------------------- |
