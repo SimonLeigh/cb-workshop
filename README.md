@@ -53,16 +53,15 @@ Please see the file [VMSetup](https://github.com/dmaier-couchbase/cb-workshop/bl
 
 ### Day 1: Couchbase Architecture and Administration Basics
 
+Remove section one, make sure it is pre-configured.
+Start from section 2.
+
 | #               | Title                                  | Content                                      | 
 | --------------- | -------------------------------------- | -------------------------------------------- |
-
-Remove section one, make sure it is pre-configured.
 | 1               | Installation and Configuration         | Disable Swappiness | 
 |                 |                                        | Disable the Linux Firewall |
 |                 |                                        | Download and Install Couchbase |
 |                 |                                        | Configure the Cluster |
-
-Start from section 2
 | 2               | Testing the Installation               | List the nodes of your current cluster |
 |                 |                                        | Investigate the data and index directory |
 |                 |                                        | Get some data from a vBucket file |
